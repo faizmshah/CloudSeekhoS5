@@ -18,4 +18,3 @@ Task 3:
 search for cloud functions
 
 trigger type: cloud storage
-event type: on finalizing / creating file in the selected bucket
