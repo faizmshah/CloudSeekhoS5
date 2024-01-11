@@ -1,0 +1,21 @@
+Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
+
+We have to use user name 1.
+
+gcloud config set compute/zone <Zone>
+
+Task 1:
+
+gcloud storage buckets create gs://<Bucket_Name>
+
+Task 2:
+
+gcloud pubsub topics create <Pub/Sub_topic>
+
+
+Task 3:
+
+search for cloud functions
+
+trigger type: cloud storage
+event type: on finalizing / creating file in the selected bucket
